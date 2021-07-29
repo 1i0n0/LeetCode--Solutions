@@ -1,5 +1,5 @@
 # LeetCode--Solutions
 
-#### Discription
+#### Description
 For study use only.   
 LeetCode: https://leetcode.com/
