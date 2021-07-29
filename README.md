@@ -1,2 +1,5 @@
 # LeetCode--Solutions
-For study use only.   LeetCode: https://leetcode.com/
+
+#### Discription
+For study use only.   
+LeetCode: https://leetcode.com/
