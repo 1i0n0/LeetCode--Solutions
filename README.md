@@ -1,4 +1,4 @@
-# LeetCode--Solutions
+# LeetCode-Solutions
 
 #### Description
 For study use only.   
